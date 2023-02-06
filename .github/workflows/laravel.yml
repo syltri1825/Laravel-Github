@@ -14,4 +14,4 @@ jobs:
         server: localhost
         username: root
         password: ''
-        server-dir: /public_html/laravel-react/
+        server-dir: C:/wamp642/www/public_html/laravel-react/
